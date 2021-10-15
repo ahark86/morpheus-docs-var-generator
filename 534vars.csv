@@ -1,0 +1,148 @@
+﻿L1L2L3,﻿L1 > L2 > L3,.. |﻿L1L2L3| replace:: ﻿L1 > L2 > L3
+Lib,Library,.. |Lib| replace:: Library
+LibAut,Library > Automation,.. |LibAut| replace:: Library > Automation
+LibAutTas,Library > Automation > Tasks,.. |LibAutTas| replace:: Library > Automation > Tasks
+LibAutWor,Library > Automation > Workflows,.. |LibAutWor| replace:: Library > Automation > Workflows
+LibAutSca,Library > Automation > Scale Thresholds,.. |LibAutSca| replace:: Library > Automation > Scale Thresholds
+LibAutPow,Library > Automation > Power Scheduling,.. |LibAutPow| replace:: Library > Automation > Power Scheduling
+LibAutExe,Library > Automation > Execute Scheduling,.. |LibAutExe| replace:: Library > Automation > Execute Scheduling
+LibBlu,Library > Blueprints,.. |LibBlu| replace:: Library > Blueprints
+LibBluCat,Library > Blueprints > Catalog Items,.. |LibBluCat| replace:: Library > Blueprints > Catalog Items
+LibBluApp,Library > Blueprints > App Blueprints,.. |LibBluApp| replace:: Library > Blueprints > App Blueprints
+LibBluIns,Library > Blueprints > Instance Types,.. |LibBluIns| replace:: Library > Blueprints > Instance Types
+LibBluLay,Library > Blueprints > Layouts,.. |LibBluLay| replace:: Library > Blueprints > Layouts
+LibBluNod,Library > Blueprints > Node Types,.. |LibBluNod| replace:: Library > Blueprints > Node Types
+LibBluClu,Library > Blueprints > Cluster Layouts,.. |LibBluClu| replace:: Library > Blueprints > Cluster Layouts
+LibVir,Library > Virtual Images,.. |LibVir| replace:: Library > Virtual Images
+LibOpt,Library > Options,.. |LibOpt| replace:: Library > Options
+LibOptInp,Library > Options > Inputs,.. |LibOptInp| replace:: Library > Options > Inputs
+LibOptOpt,Library > Options > Option Lists,.. |LibOptOpt| replace:: Library > Options > Option Lists
+LibTem,Library > Templates,.. |LibTem| replace:: Library > Templates
+LibTemSpe,Library > Templates > Spec Templates,.. |LibTemSpe| replace:: Library > Templates > Spec Templates
+LibTemFil,Library > Templates > File Templates,.. |LibTemFil| replace:: Library > Templates > File Templates
+LibTemScr,Library > Templates > Script Templates,.. |LibTemScr| replace:: Library > Templates > Script Templates
+LibTemSec,Library > Templates > Security Packages,.. |LibTemSec| replace:: Library > Templates > Security Packages
+Pro,Provisioning,.. |Pro| replace:: Provisioning
+ProCat,Provisioning > Catalog,.. |ProCat| replace:: Provisioning > Catalog
+ProCatInv,Provisioning > Catalog > Inventory,.. |ProCatInv| replace:: Provisioning > Catalog > Inventory
+ProIns,Provisioning > Instances,.. |ProIns| replace:: Provisioning > Instances
+ProApp,Provisioning > Apps,.. |ProApp| replace:: Provisioning > Apps
+ProJob,Provisioning > Jobs,.. |ProJob| replace:: Provisioning > Jobs
+ProJobJob,Provisioning > Jobs > Job Executions,.. |ProJobJob| replace:: Provisioning > Jobs > Job Executions
+ProJobSec,Provisioning > Jobs > Security Packages,.. |ProJobSec| replace:: Provisioning > Jobs > Security Packages
+ProCod,Provisioning > Code,.. |ProCod| replace:: Provisioning > Code
+ProCodRep,Provisioning > Code > Repositories,.. |ProCodRep| replace:: Provisioning > Code > Repositories
+ProCodDep,Provisioning > Code > Deployments,.. |ProCodDep| replace:: Provisioning > Code > Deployments
+ProCodInt,Provisioning > Code > Integrations,.. |ProCodInt| replace:: Provisioning > Code > Integrations
+Ope,Operations,.. |Ope| replace:: Operations
+OpeDas,Operations > Dashboard,.. |OpeDas| replace:: Operations > Dashboard
+OpeRep,Operations > Reports,.. |OpeRep| replace:: Operations > Reports
+OpeAna,Operations > Analytics,.. |OpeAna| replace:: Operations > Analytics
+OpeGui,Operations > Guidance,.. |OpeGui| replace:: Operations > Guidance
+OpeWik,Operations > Wiki,.. |OpeWik| replace:: Operations > Wiki
+OpeCos,Operations > Costing,.. |OpeCos| replace:: Operations > Costing
+OpeCosBud,Operations > Costing > Budgets,.. |OpeCosBud| replace:: Operations > Costing > Budgets
+OpeCosInv,Operations > Costing > Invoices,.. |OpeCosInv| replace:: Operations > Costing > Invoices
+OpeCosUsa,Operations > Costing > Usage,.. |OpeCosUsa| replace:: Operations > Costing > Usage
+OpeApp,Operations > Approvals,.. |OpeApp| replace:: Operations > Approvals
+OpeAct,Operations > Activity,.. |OpeAct| replace:: Operations > Activity
+OpeActAla,Operations > Activity > Alarms,.. |OpeActAla| replace:: Operations > Activity > Alarms
+OpeActHis,Operations > Activity > History,.. |OpeActHis| replace:: Operations > Activity > History
+Inf,Infrastructure,.. |Inf| replace:: Infrastructure
+InfGro,Infrastructure > Groups,.. |InfGro| replace:: Infrastructure > Groups
+InfClo,Infrastructure > Clouds,.. |InfClo| replace:: Infrastructure > Clouds
+InfClu,Infrastructure > Clusters,.. |InfClu| replace:: Infrastructure > Clusters
+InfCom,Infrastructure > Compute,.. |InfCom| replace:: Infrastructure > Compute
+InfComHos,Infrastructure > Compute > Hosts,.. |InfComHos| replace:: Infrastructure > Compute > Hosts
+InfComVir,Infrastructure > Compute > Virtual Machines,.. |InfComVir| replace:: Infrastructure > Compute > Virtual Machines
+InfComCon,Infrastructure > Compute > Containers,.. |InfComCon| replace:: Infrastructure > Compute > Containers
+InfComRes,Infrastructure > Compute > Resources,.. |InfComRes| replace:: Infrastructure > Compute > Resources
+InfComBar,Infrastructure > Compute > Bare Metal,.. |InfComBar| replace:: Infrastructure > Compute > Bare Metal
+InfNet,Infrastructure > Network,.. |InfNet| replace:: Infrastructure > Network
+InfNetNet,Infrastructure > Network > Networks,.. |InfNetNet| replace:: Infrastructure > Network > Networks
+InfNetNet,Infrastructure > Network > Network Groups,.. |InfNetNet| replace:: Infrastructure > Network > Network Groups
+InfNetRou,Infrastructure > Network > Routers,.. |InfNetRou| replace:: Infrastructure > Network > Routers
+InfNetIP ,Infrastructure > Network > IP Pools,.. |InfNetIP | replace:: Infrastructure > Network > IP Pools
+InfNetDom,Infrastructure > Network > Domains,.. |InfNetDom| replace:: Infrastructure > Network > Domains
+InfNetPro,Infrastructure > Network > Proxies,.. |InfNetPro| replace:: Infrastructure > Network > Proxies
+InfNetSec,Infrastructure > Network > Security Groups,.. |InfNetSec| replace:: Infrastructure > Network > Security Groups
+InfNetInt,Infrastructure > Network > Integrations,.. |InfNetInt| replace:: Infrastructure > Network > Integrations
+InfLoa,Infrastructure > Load Balancers,.. |InfLoa| replace:: Infrastructure > Load Balancers
+InfLoaLoa,Infrastructure > Load Balancers > Load Balancers,.. |InfLoaLoa| replace:: Infrastructure > Load Balancers > Load Balancers
+InfLoaVir,Infrastructure > Load Balancers > Virtual Servers,.. |InfLoaVir| replace:: Infrastructure > Load Balancers > Virtual Servers
+InfSto,Infrastructure > Storage,.. |InfSto| replace:: Infrastructure > Storage
+InfStoBuc,Infrastructure > Storage > Buckers,.. |InfStoBuc| replace:: Infrastructure > Storage > Buckers
+InfStoFil,Infrastructure > Storage > File Shares,.. |InfStoFil| replace:: Infrastructure > Storage > File Shares
+InfStoVol,Infrastructure > Storage > Volumes,.. |InfStoVol| replace:: Infrastructure > Storage > Volumes
+InfStoDat,Infrastructure > Storage > Data Stores,.. |InfStoDat| replace:: Infrastructure > Storage > Data Stores
+InfStoSer,Infrastructure > Storage > Servers,.. |InfStoSer| replace:: Infrastructure > Storage > Servers
+InfKey,Infrastructure > Keys & Certs,.. |InfKey| replace:: Infrastructure > Keys & Certs
+InfKeyKey,Infrastructure > Keys & Certs > Key Pairs,.. |InfKeyKey| replace:: Infrastructure > Keys & Certs > Key Pairs
+InfKeySSL,Infrastructure > Keys & Certs > SSL Certificates,.. |InfKeySSL| replace:: Infrastructure > Keys & Certs > SSL Certificates
+InfKeyInt,Infrastructure > Keys & Certs > Integrations,.. |InfKeyInt| replace:: Infrastructure > Keys & Certs > Integrations
+InfBoo,Infrastructure > Boot,.. |InfBoo| replace:: Infrastructure > Boot
+InfBooMap,Infrastructure > Boot > Mapping,.. |InfBooMap| replace:: Infrastructure > Boot > Mapping
+InfBooBoo,Infrastructure > Boot > Boot Menus,.. |InfBooBoo| replace:: Infrastructure > Boot > Boot Menus
+InfBooAns,Infrastructure > Boot > Answer Files,.. |InfBooAns| replace:: Infrastructure > Boot > Answer Files
+InfBooIma,Infrastructure > Boot > Images,.. |InfBooIma| replace:: Infrastructure > Boot > Images
+InfBooDis,Infrastructure > Boot > Discovered MAC Addresses,.. |InfBooDis| replace:: Infrastructure > Boot > Discovered MAC Addresses
+InfBoo,Infrastructure > Boot,.. |InfBoo| replace:: Infrastructure > Boot
+Bac,Backups,.. |Bac| replace:: Backups
+BacSum,Backups > Summary,.. |BacSum| replace:: Backups > Summary
+BacJob,Backups > Jobs,.. |BacJob| replace:: Backups > Jobs
+BacBac,Backups > Backups,.. |BacBac| replace:: Backups > Backups
+BacHis,Backups > History,.. |BacHis| replace:: Backups > History
+BacHisBac,Backups > History > Backups,.. |BacHisBac| replace:: Backups > History > Backups
+BacHisRes,Backups > History > Restores,.. |BacHisRes| replace:: Backups > History > Restores
+BacInt,Backups > Integrations,.. |BacInt| replace:: Backups > Integrations
+Mon,Monitoring,.. |Mon| replace:: Monitoring
+MonSta,Monitoring > Status,.. |MonSta| replace:: Monitoring > Status
+MonLog,Monitoring > Logs,.. |MonLog| replace:: Monitoring > Logs
+MonApp,Monitoring > Apps,.. |MonApp| replace:: Monitoring > Apps
+MonChe,Monitoring > Checks,.. |MonChe| replace:: Monitoring > Checks
+MonGro,Monitoring > Groups,.. |MonGro| replace:: Monitoring > Groups
+MonInc,Monitoring > Incidents,.. |MonInc| replace:: Monitoring > Incidents
+MonCon,Monitoring > Contacts,.. |MonCon| replace:: Monitoring > Contacts
+MonAle,Monitoring > Alert Rules,.. |MonAle| replace:: Monitoring > Alert Rules
+Too,Tools,.. |Too| replace:: Tools
+TooCyp,Tools > Cypher,.. |TooCyp| replace:: Tools > Cypher
+TooArc,Tools > Archives,.. |TooArc| replace:: Tools > Archives
+TooIma,Tools > Image Builder,.. |TooIma| replace:: Tools > Image Builder
+TooImaIma,Tools > Image Builder > Image Builds,.. |TooImaIma| replace:: Tools > Image Builder > Image Builds
+TooImaBoo,Tools > Image Builder > Boot Scripts,.. |TooImaBoo| replace:: Tools > Image Builder > Boot Scripts
+TooImaPre,Tools > Image Builder > Preseed Scripts,.. |TooImaPre| replace:: Tools > Image Builder > Preseed Scripts
+TooVDI,Tools > VDI Pools,.. |TooVDI| replace:: Tools > VDI Pools
+TooVDIVDI,Tools > VDI Pools > VDI Pools,.. |TooVDIVDI| replace:: Tools > VDI Pools > VDI Pools
+TooVDIVDI,Tools > VDI Pools > VDI Apps,.. |TooVDIVDI| replace:: Tools > VDI Pools > VDI Apps
+TooVDIVDI,Tools > VDI Pools > VDI Gateways,.. |TooVDIVDI| replace:: Tools > VDI Pools > VDI Gateways
+Adm,Administration,.. |Adm| replace:: Administration
+AdmTen,Administration > Tenants,.. |AdmTen| replace:: Administration > Tenants
+AdmPla,Administration > Plans & Pricing,.. |AdmPla| replace:: Administration > Plans & Pricing
+AdmPlaPla,Administration > Plans & Pricing > Plans,.. |AdmPlaPla| replace:: Administration > Plans & Pricing > Plans
+AdmPlaPri,Administration > Plans & Pricing > Price Sets,.. |AdmPlaPri| replace:: Administration > Plans & Pricing > Price Sets
+AdmPlaPri,Administration > Plans & Pricing > Prices,.. |AdmPlaPri| replace:: Administration > Plans & Pricing > Prices
+AdmRol,Administration > Roles,.. |AdmRol| replace:: Administration > Roles
+AdmUse,Administration > Users,.. |AdmUse| replace:: Administration > Users
+AdmUseUse,Administration > Users > Users,.. |AdmUseUse| replace:: Administration > Users > Users
+AdmUseUse,Administration > Users > User Groups,.. |AdmUseUse| replace:: Administration > Users > User Groups
+AdmInt,Administration > Integrations,.. |AdmInt| replace:: Administration > Integrations
+AdmIntInt,Administration > Integrations > Integrations,.. |AdmIntInt| replace:: Administration > Integrations > Integrations
+AdmIntPac,Administration > Integrations > Packages,.. |AdmIntPac| replace:: Administration > Integrations > Packages
+AdmIntPlu,Administration > Integrations > Plugins,.. |AdmIntPlu| replace:: Administration > Integrations > Plugins
+AdmIntDis,Administration > Integrations > Distributed Workers,.. |AdmIntDis| replace:: Administration > Integrations > Distributed Workers
+AdmPol,Administration > Policies,.. |AdmPol| replace:: Administration > Policies
+AdmHea,Administration > Health,.. |AdmHea| replace:: Administration > Health
+AdmHeaMor,Administration > Health > Morpheus Health,.. |AdmHeaMor| replace:: Administration > Health > Morpheus Health
+AdmHeaMor,Administration > Health > Morpheus Logs,.. |AdmHeaMor| replace:: Administration > Health > Morpheus Logs
+AdmSet,Administration > Settings,.. |AdmSet| replace:: Administration > Settings
+AdmSetApp,Administration > Settings > Appliance,.. |AdmSetApp| replace:: Administration > Settings > Appliance
+AdmSetWhi,Administration > Settings > Whitelabel,.. |AdmSetWhi| replace:: Administration > Settings > Whitelabel
+AdmSetPro,Administration > Settings > Provisioning,.. |AdmSetPro| replace:: Administration > Settings > Provisioning
+AdmSetMon,Administration > Settings > Monitoring,.. |AdmSetMon| replace:: Administration > Settings > Monitoring
+AdmSetBac,Administration > Settings > Backups,.. |AdmSetBac| replace:: Administration > Settings > Backups
+AdmSetLog,Administration > Settings > Logs,.. |AdmSetLog| replace:: Administration > Settings > Logs
+AdmSetGui,Administration > Settings > Guidance,.. |AdmSetGui| replace:: Administration > Settings > Guidance
+AdmSetEnv,Administration > Settings > Environments,.. |AdmSetEnv| replace:: Administration > Settings > Environments
+AdmSetSof,Administration > Settings > Software Licenses,.. |AdmSetSof| replace:: Administration > Settings > Software Licenses
+AdmSetLic,Administration > Settings > License,.. |AdmSetLic| replace:: Administration > Settings > License
+AdmSetUti,Administration > Settings > Utilities,.. |AdmSetUti| replace:: Administration > Settings > Utilities
